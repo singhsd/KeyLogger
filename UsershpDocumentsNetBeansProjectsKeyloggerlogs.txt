@@ -1,0 +1,56 @@
+18-09-2018::20:20:18 key pressed : T
+18-09-2018::20:20:18 key pressed : H
+18-09-2018::20:20:18 key pressed : I
+18-09-2018::20:20:18 key pressed : S
+18-09-2018::20:20:18 key pressed : Space
+18-09-2018::20:20:18 key pressed : I
+18-09-2018::20:20:19 key pressed : S
+18-09-2018::20:20:19 key pressed : Space
+18-09-2018::20:20:19 key pressed : I
+18-09-2018::20:20:19 key pressed : N
+18-09-2018::20:20:19 key pressed : S
+18-09-2018::20:20:20 key pressed : A
+18-09-2018::20:20:20 key pressed : M
+18-09-2018::20:20:20 key pressed : E
+18-09-2018::20:20:21 key pressed : Right Shift
+18-09-2018::20:20:21 key pressed : 1
+18-09-2018::20:20:38 key pressed : D
+18-09-2018::20:20:38 key pressed : I
+18-09-2018::20:20:38 key pressed : F
+18-09-2018::20:20:38 key pressed : F
+18-09-2018::20:20:39 key pressed : E
+18-09-2018::20:20:39 key pressed : R
+18-09-2018::20:20:39 key pressed : E
+18-09-2018::20:20:40 key pressed : N
+18-09-2018::20:20:40 key pressed : C
+18-09-2018::20:20:40 key pressed : E
+18-09-2018::20:20:44 key pressed : 1
+18-09-2018::20:20:47 key pressed : Space
+18-09-2018::20:20:47 key pressed : NumPad 1
+
+===============================================================================
+18-09-2018::20:21:59 key pressed : T
+18-09-2018::20:21:59 key pressed : H
+18-09-2018::20:21:59 key pressed : I
+18-09-2018::20:21:59 key pressed : S
+18-09-2018::20:21:59 key pressed : Space
+18-09-2018::20:21:59 key pressed : W
+18-09-2018::20:21:59 key pressed : I
+18-09-2018::20:21:59 key pressed : L
+18-09-2018::20:22:00 key pressed : L
+18-09-2018::20:22:00 key pressed : Space
+18-09-2018::20:22:00 key pressed : S
+18-09-2018::20:22:00 key pressed : H
+18-09-2018::20:22:00 key pressed : O
+18-09-2018::20:22:00 key pressed : W
+18-09-2018::20:22:01 key pressed : Space
+18-09-2018::20:22:01 key pressed : C
+18-09-2018::20:22:01 key pressed : A
+18-09-2018::20:22:02 key pressed : Backspace
+18-09-2018::20:22:03 key pressed : H
+18-09-2018::20:22:03 key pressed : A
+18-09-2018::20:22:03 key pressed : N
+18-09-2018::20:22:04 key pressed : G
+18-09-2018::20:22:04 key pressed : E
+18-09-2018::20:22:04 key pressed : Enter
+===============================================================================
